@@ -1,29 +1,37 @@
-# Medical Store Management System
-### Developed by, Abhishek Sharma, 2021
-In this project I have deployed a Medical Store Management System as a Web App using PHP and MySQL
+#Medical Store Management System
+###Developed by YAAR, 2024
+This project involves deploying a Medical Store Management System as a web application using PHP and MySQL.
 
-### Softwares Used in this Project :
-- Sublime Text Editor for deploying the PHP files (You can use any text editor for developing the PHP codes)
-- XAMPP Control Server to establish connection between the database and the PHP files
+###Software Used in this Project:
+-Text Editor: Sublime Text Editor (Any text editor can be used for developing PHP code)
+-Server: XAMPP Control Server (for establishing the connection between the database and the PHP files)
 
-### Utilities :
-This medical store management system will provide us the gievn informations,
-- Dashboard : For showing the home page of the system
-- Inventory : To show the amount of medicines stored
-- Suppliers : Name of the suppliers
-- Employees : Details of the employees working in the store
-- Customers : Details of the customers
-- Invoice details : provides the invoice details to the admin
-- Sold Product details : Viewing the details of the products which were sold
-- Reports : In Stock Medicines, Total profit etc.
+###Utilities:
+This Medical Store Management System provides the following features:
+-Dashboard: Displays the home page of the system
+-Inventory: Shows the amount of medicines stored
+-Suppliers: Lists the names of the suppliers
+-Employees: Details of the employees working in the store
+-Customers: Details of the customers
+-Invoice Details: Provides invoice details to the admin
+-Sold Product Details: Displays details of the products sold
+-Reports: In-stock medicines, total profit, etc.
 
-### Set Up to run this system in your PC/Laptop :
-- Download the XAMPP Control server of latest version and install it.
-- Start Apache and MySQL from the XAMPP server
-- Download the codebase as a zip file from this repository and extract the files in the xampp/htdocs folder in your C drive.
-- Now open any web browser and visit the url : `localhost/phpmyadmin`
-- Create a Database in the MYSQL server and import the `pharmacy.sql` file in the newly created database.
-- Now in another tab go to the url : `localhost/Pharmacy-Management-System-master/PHARMACY/mainpage.php`
-- while runnig the above url the program will start and the database will be running in the XAMPP server as you can see the differences in the database live!
+###Setup Instructions:
+-Download and Install XAMPP:
+-Download the latest version of XAMPP and install it.
+-Start Apache and MySQL:
+-Open the XAMPP Control Panel and start the Apache and MySQL services.
+-Download and Extract Codebase:
+-Download the codebase as a zip file from this repository.
+-Extract the files to the xampp/htdocs folder on your C drive.
+-Create and Import Database:
+-Open a web browser and visit localhost/phpmyadmin.
+-Create a new database.
+-Import the pharmacy.sql file into the newly created database.
+-Run the Application:
+-Open another browser tab and visit: localhost/Pharmacy-Management-System-master/PHARMACY/mainpage.php.
+-The program will start, and the database will run on the XAMPP server. You can see live updates in the database as changes occur.
 
-### Code Developed by, Abhishek Sharma, @abhisheks008, 2021
+
+###Code Developed by YAAR, 2024
